@@ -1,6 +1,9 @@
 import acm.graphics.GImage;
+//butt
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
+//poopy
+//fart
 
 public class SimplePicture extends GraphicsProgram {
 	private static final String ROBOT_PNG = "robot.png";
